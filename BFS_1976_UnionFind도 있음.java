@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class BFS_1976 {
+public class Main {
 	
 	static boolean visit[];
 
