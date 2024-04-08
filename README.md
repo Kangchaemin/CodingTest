@@ -20,3 +20,4 @@
 
 <프로그래머스 문제풀이 전략 : Java>
 - [프로그래머스 - 시저암호(알파벳 밀어내기)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.java)
+- [프로그래머스 - 이진 변환 압축하기(특정 문자 개수 구하기)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java)
