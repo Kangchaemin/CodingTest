@@ -27,4 +27,5 @@
 
 ## ✨재귀
 - [5장 재귀 - 쿼드압축 후 개수세기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0.java)
+- [5장 재귀 - 모음 사전](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.java)
 
