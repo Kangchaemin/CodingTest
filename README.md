@@ -30,3 +30,6 @@
 - [5장 재귀 - 하노이의 탑](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.java)
 - [5장 재귀 - 모음 사전](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.java)
 
+## ✨완전 탐색
+- [6장 완전탐색 - 모의고사(IntStream 이용)]()
+
