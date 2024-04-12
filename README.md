@@ -31,5 +31,5 @@
 - [5장 재귀 - 모음 사전](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.java)
 
 ## ✨완전 탐색
-- [6장 완전탐색 - 모의고사(IntStream 이용)]()
+- [6장 완전탐색 - 모의고사(IntStream 이용)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)
 
