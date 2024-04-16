@@ -32,4 +32,5 @@
 
 ## ✨완전 탐색
 - [6장 완전탐색 - 모의고사(IntStream 이용)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)
+- [6장 완전탐색 - 카펫](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%B9%B4%ED%8E%AB.java)
 
