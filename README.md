@@ -43,4 +43,5 @@
 - [6장 완전탐색 - 수식 최대화(완전탐색)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.java)
 
 ## ✨정렬
-- [7장 정렬 - K번째 수]()
+- [7장 정렬 - K번째 수](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_K%EB%B2%88%EC%A7%B8%20%EC%88%98.java)
+- [7장 정렬 - 두 개 뽑아서 더하기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0..java)
