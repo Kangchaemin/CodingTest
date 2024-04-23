@@ -46,6 +46,7 @@
 - [7장 정렬 - K번째 수](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_K%EB%B2%88%EC%A7%B8%20%EC%88%98.java)
 - [7장 정렬 - 두 개 뽑아서 더하기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0..java)
 - [7장 정렬 - H-Index](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_H-Index.java)
+- [7장 정렬 - 문자열 내 마음대로 정렬하기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java)
 
 ## ✨DP
 - [프로그래머스 - 연속 펄스 부분수열의 합](https://github.com/Kangchaemin/CodingTest/blob/main/DP/DP_%EC%97%B0%EC%86%8D%20%ED%8E%84%EC%8A%A4%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.java)
