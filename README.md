@@ -49,9 +49,9 @@
 - [7장 정렬 - 문자열 내 마음대로 정렬하기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java)
 
 ## ✨이분탐색
-- [8장 정렬 - 순위검색](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.java)
-- [8장 정렬 - 입국심사](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.java)
-- [8장 정렬 - 징검다리](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.java)
+- [8장 정렬 - 순위검색(완전탐색+이진탐색)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.java)
+- [8장 정렬 - 입국심사(lowerBound)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.java)
+- [8장 정렬 - 징검다리(upperBound)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.java)
 
 ## ✨DP
 - [프로그래머스 - 연속 펄스 부분수열의 합](https://github.com/Kangchaemin/CodingTest/blob/main/DP/DP_%EC%97%B0%EC%86%8D%20%ED%8E%84%EC%8A%A4%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.java)
