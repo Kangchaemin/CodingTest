@@ -25,7 +25,7 @@
 - [4장 문자열 - 시저암호(알파벳 밀어내기)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.java)
 - [4장 문자열 - 이진 변환 반복하기(특정 문자 개수 구하기)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java)
 - [4장 문자열 - 숫자 문자열과 영단어(배열)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4_%EB%B0%B0%EC%97%B4.java)
-- [9장 해시 - 중복 문자열 만들기](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%A4%91%EB%B3%B5%EB%90%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.java)
+- [9장 해시 - 중복 문자열 만들기(list.contains()](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%A4%91%EB%B3%B5%EB%90%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.java)
 
 ## ✨재귀
 - [5장 재귀 - 쿼드압축 후 개수세기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0.java)
