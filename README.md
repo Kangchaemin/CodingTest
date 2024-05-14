@@ -65,6 +65,6 @@
 - [9장 DP - 등굣길](https://github.com/Kangchaemin/CodingTest/blob/main/DP/DP_%EB%93%B1%EA%B5%A3%EA%B8%B8.java)
 
 ## ✨Stack & Queue 자료구조
-- [10장 Stack - 괄호 회전하기]()
-- [10장 Stack - 주식가격]()
-- [10장 Queue - 기능 개발]()
+- [10장 Stack - 괄호 회전하기](https://github.com/Kangchaemin/CodingTest/blob/main/Stack%20And%20Queue/Stack_%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) / [괄호 회전하기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+- [10장 Stack - 주식가격](https://github.com/Kangchaemin/CodingTest/blob/main/Stack%20And%20Queue/Stack_%EC%A3%BC%EC%8B%9D%20%EA%B0%80%EA%B2%A9.java) / [주식 가격 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [10장 Queue - 기능 개발](https://github.com/Kangchaemin/CodingTest/blob/main/Stack%20And%20Queue/Queue_%EA%B8%B0%EB%8A%A5%20%EA%B0%9C%EB%B0%9C.java) / [기능 개발 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
