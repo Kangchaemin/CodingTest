@@ -29,9 +29,9 @@
 - [9장 해시 - A로 B만들기(HashMap)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_A%EB%A1%9C%20B%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
 
 ## ✨재귀
-- [5장 재귀 - 쿼드압축 후 개수세기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0.java)
-- [5장 재귀 - 하노이의 탑](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.java)
-- [5장 재귀 - 모음 사전](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80_%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.java)
+- [5장 재귀 - 쿼드압축 후 개수세기](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80/%EC%9E%AC%EA%B7%80_%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0.java)
+- [5장 재귀 - 하노이의 탑](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80/%EC%9E%AC%EA%B7%80_%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.java)
+- [5장 재귀 - 모음 사전](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80/%EC%9E%AC%EA%B7%80_%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.java)
 
 ## ✨완전 탐색
 
@@ -69,6 +69,6 @@
 - [11장 Stack - 주식가격](https://github.com/Kangchaemin/CodingTest/blob/main/Stack%20And%20Queue/Stack_%EC%A3%BC%EC%8B%9D%20%EA%B0%80%EA%B2%A9.java) / [주식 가격 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 - [11장 Queue - 기능 개발](https://github.com/Kangchaemin/CodingTest/blob/main/Stack%20And%20Queue/Queue_%EA%B8%B0%EB%8A%A5%20%EA%B0%9C%EB%B0%9C.java) / [기능 개발 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [11장 Queue - 다리를 지나는 트럭](https://github.com/Kangchaemin/CodingTest/blob/main/Stack%20And%20Queue/Queue_%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.java) / [다리를 지나는 트럭 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
-- [11장 재귀 - 순위](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80/%EC%88%9C%EC%9C%84.java) / [순위 문제](
+- [11장 재귀 - 순위](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9E%AC%EA%B7%80/%EC%9E%AC%EA%B7%80_%EC%88%9C%EC%9C%84.java) / [순위 문제](
 https://school.programmers.co.kr/learn/courses/30/lessons/49191)
 - [11장 HashMap - 방의 개수](https://github.com/Kangchaemin/CodingTest/blob/main/HashMap/%EB%B0%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) / [방의 개수 문제](https://school.programmers.co.kr/learn/courses/30/lessons/49190)
