@@ -40,11 +40,14 @@
 - [6장 완전탐색 - 소수 찾기](https://github.com/Kangchaemin/CodingTest/blob/main/DFS_%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)
 - [6장 완전탐색 - 불량 사용자](https://github.com/Kangchaemin/CodingTest/blob/main/DFS_%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.java)
 - [완전탐색 - 평행(조합)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%ED%8F%89%ED%96%89.java)
-  
+
 ### [완전 탐색]
 - [6장 완전탐색 - 모의고사(IntStream 이용)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)
 - [6장 완전탐색 - 카펫](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%B9%B4%ED%8E%AB.java)
 - [6장 완전탐색 - 수식 최대화(완전탐색)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.java)
+
+### [BFS]
+- [PCCP 기출 2번 - 석유 시추](https://github.com/Kangchaemin/CodingTest/blob/main/BFS/BFS_%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.java) / [석유 시추 문제](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
 
 ## ✨정렬
 - [7장 정렬 - K번째 수](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_K%EB%B2%88%EC%A7%B8%20%EC%88%98.java)
