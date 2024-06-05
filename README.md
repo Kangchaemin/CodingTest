@@ -15,6 +15,9 @@
 - [백준 - 1717(집합의 표현)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9C%A0%EB%8B%88%EC%98%A8%ED%8C%8C%EC%9D%B8%EB%93%9C_1717_%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.java)
 - [백준 - 1976 - 여행 가자(BFS로도 풀이 가능)](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C_1976_BFS%EB%A1%9C%EB%8F%84%20%EA%B0%80%EB%8A%A5.java)
 
+## ✨배열
+- [3장 배열 - 교점에 별 만들기](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%B0%B0%EC%97%B4/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) / [교점에 별 만들기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+
 ## ✨문자열
 - [프로그래머스 - 문자열압축(KaKao)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_KaKao_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.java)
 - [프로그래머스 - 숫자 문자열과 영단어(HashMap 사용하기) _ 밑에 배열 전략 있음](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4_HashMap.java)
