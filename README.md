@@ -17,6 +17,7 @@
 
 ## ✨배열
 - [3장 배열 - 교점에 별 만들기](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%B0%B0%EC%97%B4/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) / [교점에 별 만들기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+- [3장 배열 - 삼각 달팽이](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%B0%B0%EC%97%B4/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.java) / [삼각 달팽이 문제](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 
 ## ✨문자열
 - [프로그래머스 - 문자열압축(KaKao)](https://github.com/Kangchaemin/CodingTest/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4_KaKao_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.java)
