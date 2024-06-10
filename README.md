@@ -52,6 +52,7 @@
 
 ### [BFS]
 - [PCCP 기출 2번 - 석유 시추](https://github.com/Kangchaemin/CodingTest/blob/main/BFS/BFS_%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.java) / [석유 시추 문제](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
+- [12장 구현 - 단어 변환](https://github.com/Kangchaemin/CodingTest/blob/main/BFS/BFS_%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.java) / [단어 변환 문제](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
 
 ## ✨정렬
 - [7장 정렬 - K번째 수](https://github.com/Kangchaemin/CodingTest/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_K%EB%B2%88%EC%A7%B8%20%EC%88%98.java)
